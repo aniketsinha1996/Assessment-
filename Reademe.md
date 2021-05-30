@@ -15,3 +15,4 @@ Points:
 *I have used XAMMP server to run it over
 *My database name is assessment. So will be better if u name the same database while importing .sql file
 *there is a screenshot folder in the root directory
+*mYSQL FILE IS NAMED AS sign_up.sql
